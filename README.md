@@ -2,7 +2,7 @@
 [![PyPI supported Python versions](https://img.shields.io/pypi/pyversions/better-automation.svg)](https://www.python.org/downloads/release/python-3116/)
 [![works badge](https://cdn.jsdelivr.net/gh/nikku/works-on-my-machine@v0.2.0/badge.svg)](https://github.com/nikku/works-on-my-machine)  
 
-## Чекер аккаунтов на дроп OPTIMISM
+## Чекер аккаунтов на дроп SMARTLAYER
 _• Поддерживает загрузку больших файлов путем по-байтового чтения файла с аккаунтами_  
 _• Найденные кошелки записывает в файл **eligible.txt**_  
 _• Поддерживает загрузку аккаунтов в любом формате_
